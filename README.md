@@ -3,13 +3,13 @@
 
 
 
-## 项目目录
+## 目  录
 
 ### 1. 排序算法
 
 #### 1.1 [冒泡排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bubble_sort.ipynb)
 
-#### 1.2 选择排序
+#### 1.2 [选择排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/selection_sort.ipynb)
 
 #### 1.3 [插入排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/insertion_sort.ipynb)
 
