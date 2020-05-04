@@ -13,7 +13,7 @@
 
 #### 1.3 [插入排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/insertion_sort.ipynb)
 
-#### 1.4 快速排序
+#### 1.4 [快速排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/quick_sort.ipynb)
 
 #### 1.5 归并排序
 
