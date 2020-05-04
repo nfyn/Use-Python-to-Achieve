@@ -22,6 +22,8 @@
 
 ### 1.7 [堆排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/heap_sort.ipynb)
 
+### 1.8 [计数排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/counting_sort.ipynb)
+
 ## 2.数据结构算法
 
 ### 	2.1 数组
