@@ -7,7 +7,7 @@
 
 ### 1. 排序算法
 
-#### 1.1 冒泡排序
+#### 1.1 [冒泡排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bubble_sort.ipynb)
 
 #### 1.2 选择排序
 
