@@ -2,7 +2,7 @@
 使用python实现排序算法、数据结构、机器学习算法，以及编码的小技巧。。。。
 
 
-![py3][py3]
+![python 3.7][python 3.7]![jupyter notebook][jupyter notebook]
 # 目  录
 
 ## 1. 排序算法
@@ -73,3 +73,5 @@
 
 ### 3.10 条件随机场
 
+[python 3.7]:https://img.shields.io/badge/python%203.7-brightgreen.svg
+[jupyter notebook]:https://img.shields.io/badge/jupyter%20notebook-orange.svg
