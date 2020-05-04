@@ -74,5 +74,15 @@
 
 ### 3.10 条件随机场
 
+
+
+
+
+## 联系我们
+
+[个人博客网站](http://www.bling2.cn/) ![qq群][qq]
+
 [python 3.7]:https://img.shields.io/badge/python%203.7-green.svg
 [jupyter notebook]:https://img.shields.io/badge/jupyter%20notebook-critical.svg
+[qq]:https://img.shields.io/badge/QQ%E7%BE%A4-674123879-blue.svg
+
