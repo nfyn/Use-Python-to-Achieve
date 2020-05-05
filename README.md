@@ -28,6 +28,8 @@
 
 1.10 [桶排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bucket_sort.ipynb)
 
+1.11 [常见排序算法总结](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/sorting_summary.md)
+
 ## 2.数据结构算法
 
 2.1 数组
