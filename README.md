@@ -86,9 +86,10 @@
 
 ## 联系我们
 
-​	[个人博客网站](http://www.bling2.cn/) ![qq群][qq]
+![个人博客网站][blog] ![qq群][qq]
 
-[python 3.7]:https://img.shields.io/badge/python%203.7-green.svg
-[jupyter notebook]:https://img.shields.io/badge/jupyter%20notebook-critical.svg
-[qq]:https://img.shields.io/badge/QQ%E7%BE%A4-674123879-blue.svg
+[python 3.7]:https://img.shields.io/badge/python-3.7-green.svg?logo=python&logocolor=white&link=https://www.python.org/
+[jupyter notebook]:https://img.shields.io/badge/jupyter%20notebook-1.0.0-critical.svg?logo=jupyter&link=https://jupyter.org/
+[qq]:https://img.shields.io/badge/QQ%E7%BE%A4-674123879-blue.svg?logo=qzone
+[blog]:https://img.shields.io/badge/个人博客网站-blue.svg?logo=github&link=http://www.bling2.cn/
 
