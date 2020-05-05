@@ -24,6 +24,10 @@
 
 ### 1.8 [计数排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/counting_sort.ipynb)
 
+### 1.9 [基数排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/radix_sort.ipynb)
+
+### 1.10 [桶排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bucket_sort.ipynb)
+
 ## 2.数据结构算法
 
 ### 	2.1 数组
