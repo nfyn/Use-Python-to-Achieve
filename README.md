@@ -46,27 +46,25 @@
 -[队列](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/queue.ipynb)
 -[双端队列](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/deque.ipynb)
 
-2.4 队列
+2.4 递归
 
-2.5 递归
+2.5 二分查找
 
-2.6 二分查找
+2.6 散列表
 
-2.7 散列表
+2.7 字符串
 
-2.8 字符串
+2.8 二叉树
 
-2.9 二叉树
+2.9 堆
 
-2.10 堆
+2.10 图
 
-2.11 图
+2.11 回溯
 
-2.12 回溯
+2.12 分治
 
-2.13 分治
-
-2.14 动态规划
+2.13 动态规划
 
 ## 3.机器学习算法
 
