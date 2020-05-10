@@ -39,7 +39,7 @@
 - [单向链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/single_link_list.ipynb)
 - [单向循环链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/single_cycle_link_list.ipynb)
 - [双向链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/double_link_list.ipynb)
-- 双向循环链表(Double Cycle Link List)
+- [双向循环链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/double_cycle_link_list.ipynb)
 
 2.3 栈
 
