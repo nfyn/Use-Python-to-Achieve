@@ -41,7 +41,10 @@
 - [双向链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/double_link_list.ipynb)
 - [双向循环链表](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/double_cycle_link_list.ipynb)
 
-2.3 栈
+2.3 栈和队列
+-[栈](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/stack.ipynb)
+-[队列](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/queue.ipynb)
+-[双端队列](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/deque.ipynb)
 
 2.4 队列
 
