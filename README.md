@@ -49,7 +49,8 @@
 
 2.4 递归
 
-2.5 二分查找
+2.5 搜索
+- [二分查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_search.ipynb)
 
 2.6 散列表
 
