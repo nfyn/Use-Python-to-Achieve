@@ -7,7 +7,7 @@
 - **比较类排序**：通过比较来决定元素间的相对次序，由于其时间复杂度不能突破O($nlogn$)，因此也称为非线性时间比较类排序。
 - **非比较类排序**：不通过比较来决定元素间的相对次序，它可以突破基于比较排序的时间下界，以线性时间运行，因此也称为线性时间非比较类排序。
 
-![排序算法分类](https://raw.githubusercontent.com/lb971216008/Use-Python-to-Achieve/master/Sorting/image/summary.png)
+![排序算法分类](/Sorting/image/summary.png)
 
 
 
