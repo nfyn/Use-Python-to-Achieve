@@ -2,7 +2,6 @@
 [![python 3.7][python 3.7]](https://www.python.org/) [![jupyter notebook][jupyter notebook]](https://www.jupyte.org/)
 
 使用python实现排序算法、数据结构、机器学习算法，以及编码的小技巧。。。。
-![主页](/Sorting/image/bubble_sort.gif)
 
 # 目  录
 
@@ -49,14 +48,37 @@
 
 2.4 递归
 
-2.5 搜索
+- 递归求和、求阶乘、进制转换、翻转字符串、斐波那契数列
+- 绘制螺线
+- 绘制分形树
+- 绘制谢尔宾斯基三角形
+- 绘制汉诺塔
+- 绘制迷宫路线求解
+- 找零硬币计数
+- 绘制希尔伯特曲线
+- 绘制科赫雪花
+
+2.5 查找
+
+- 顺序查找(Sequence Search)
+
 - [二分查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_search.ipynb)
+- 插值查找(Insertion Search)
+- 斐波那契查找(Fibonacci Search)
+- 树表查找
+  + 平衡查找树之二叉树(BinarySearch Tree)
+  + 平衡查找树之2-3查找树（2-3 Tree）
+  + 平衡查找树之红黑树（Red-Black Tree）
+  + 平衡查找树之B树和B+树（B Tree/B+ Tree）
+
+- 分块查找
+- 哈希查找(Hash Table)
 
 2.6 散列表
 
 2.7 字符串
 
-2.8 二叉树
+2.8 [二叉树]((https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_tree.ipynb))
 
 2.9 堆
 
