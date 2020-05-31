@@ -52,7 +52,7 @@
 - [绘制螺线、绘制斐波那契螺旋线](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part2.ipynb)
 - [绘制分形树](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part3.ipynb)
 - [绘制谢尔宾斯基三角形](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part4.ipynb)
-- 绘制汉诺塔
+- [绘制汉诺塔](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part5.ipynb)
 - 绘制迷宫路线求解
 - 找零硬币计数
 - 绘制希尔伯特曲线
