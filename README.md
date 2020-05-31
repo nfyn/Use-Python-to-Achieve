@@ -54,9 +54,9 @@
 - [绘制谢尔宾斯基三角形](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part4.ipynb)
 - [绘制汉诺塔](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part5.ipynb)
 - [绘制迷宫路线求解](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part6.ipynb)
-- 找零硬币计数
-- 绘制希尔伯特曲线
-- 绘制科赫雪花
+- [找零硬币计数](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part7.ipynb)
+- [绘制希尔伯特曲线](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part8.ipynb)
+- [绘制科赫雪花](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/recursion_part9.ipynb)
 
 2.5 查找
 
