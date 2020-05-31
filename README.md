@@ -116,6 +116,12 @@
 
 [![个人博客网站][blog]](http://www.bling2.cn/) ![qq群][qq]
 
+*知乎专栏*：[https://zhuanlan.zhihu.com/Use-Python-to-Achieve](https://zhuanlan.zhihu.com/Use-Python-to-Achieve)
+
+*小专栏*：[https://xiaozhuanlan.com/Use-Python-to-Achieve](https://xiaozhuanlan.com/Use-Python-to-Achieve)
+
+*博客园*：[https://www.cnblogs.com/Use-Python-to-Achieve](https://www.cnblogs.com/Use-Python-to-Achieve)
+![关注微信公众号](/微信公众号-动态二维码.gif)
 [python 3.7]:https://img.shields.io/badge/python-3.7-green.svg?logo=python&logocolor=white&link=https://www.python.org/
 [jupyter notebook]:https://img.shields.io/badge/jupyter%20notebook-1.0.0-critical.svg?logo=jupyter&link=https://jupyter.org/
 [qq]:https://img.shields.io/badge/QQ%E7%BE%A4-674123879-blue.svg?logo=qzone
