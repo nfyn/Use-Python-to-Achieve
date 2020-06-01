@@ -63,7 +63,7 @@
 - [顺序查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/sequence_search.ipynb)
 - [二分查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_search.ipynb)
 - [插值查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/insertion_search.ipynb)
-- 斐波那契查找(Fibonacci Search)
+- [斐波那契查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/fibonacci_search.ipynb)
 - 树表查找
   + 平衡查找树之二叉树(BinarySearch Tree)
   + 平衡查找树之2-3查找树（2-3 Tree）
