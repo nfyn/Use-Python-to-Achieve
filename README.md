@@ -8,15 +8,25 @@
 ## 1. 排序算法
 
 1.1 [冒泡排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bubble_sort.ipynb)
+
 1.2 [选择排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/selection_sort.ipynb)
+
 1.3 [插入排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/insertion_sort.ipynb)
+
 1.4 [快速排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/quick_sort.ipynb)
+
 1.5 [归并排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/merge_sort.ipynb)
+
 1.6 [希尔排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/shell_sort.ipynb)
+
 1.7 [堆排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/heap_sort.ipynb)
+
 1.8 [计数排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/counting_sort.ipynb)
+
 1.9 [基数排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/radix_sort.ipynb)
+
 1.10 [桶排序](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/bucket_sort.ipynb)
+
 1.11 [常见排序算法总结](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/Sorting/sorting_summary.md)
 
 ## 2.数据结构算法
