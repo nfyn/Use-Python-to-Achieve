@@ -71,13 +71,13 @@
   + 平衡查找树之B树和B+树（B Tree/B+ Tree）
 
 - [分块查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/block_search.ipynb)
-- 哈希查找(Hash Table)
+- [哈希查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/hash_search.ipynb)
 
 2.6 散列表
 
 2.7 字符串
 
-2.8 [二叉树]((https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_tree.ipynb))
+2.8 [二叉树](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/binary_tree.ipynb)
 
 2.9 堆
 
