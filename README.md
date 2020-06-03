@@ -70,7 +70,7 @@
   + 平衡查找树之红黑树（Red-Black Tree）
   + 平衡查找树之B树和B+树（B Tree/B+ Tree）
 
-- 分块查找
+- [分块查找](https://github.com/lb971216008/Use-Python-to-Achieve/blob/master/DataStructure/block_search.ipynb)
 - 哈希查找(Hash Table)
 
 2.6 散列表
